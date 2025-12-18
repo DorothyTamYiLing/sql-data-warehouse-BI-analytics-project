@@ -1,7 +1,7 @@
 # sql-data-warehouse-BI-analytic-project
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generate actionable insights. Based on Udemy course 'The Only SQL Course with 200+ Visual Animations: learn Fast, Practice Hard & Build Real-World Projects' by Baraa.
 ## Project Components
-### Component 1: Building the Data Warehouse (Data Engineering)
+## Component 1: Building the Data Warehouse (Data Engineering)
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
@@ -17,16 +17,16 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 <img width="4923" height="2733" alt="data_integration" src="https://github.com/user-attachments/assets/6cfe2f3a-e470-4efe-ac8f-fa80fb2d7fc6" />
 
-### Component 2: BI Analytics & Reporting (Data Analytics)
+## Component 2: BI Analytics & Reporting (Data Analytics)
 
-#### Objective
+### Objective
 Develop SQL-based analytics to deliver detailed insights into customer behaviour, product performance and sales trends. These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 Analytics include:
 Exploratory Data Analysis (EDA): database exploration, dimension exploration, date exploration, measures exploration, magnitude and ranking exploration
 Advance analytics: Change-over-time, cumulative analysis, performance analysis, part-to-whole analysis, data segmentation, report generation
 
-## Customer Report
+#### Customer Report
 Purpose:  
     - This report consolidates key customer metrics and behaviors  
 
@@ -44,7 +44,7 @@ Highlights:
 		- average order value  
 		- average monthly spend  
 
-## Product Report
+#### Product Report
 Purpose:  
     - This report consolidates key product metrics and behaviors.  
 
