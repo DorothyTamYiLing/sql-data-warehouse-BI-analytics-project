@@ -25,11 +25,13 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## Data Architecture
 <img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/830ed2e5-407a-49a7-a47d-5848623275e5" />
 
+## Data Integration
+<img width="4923" height="2733" alt="data_integration" src="https://github.com/user-attachments/assets/6cfe2f3a-e470-4efe-ac8f-fa80fb2d7fc6" />
 
 ## Requirements
 - SQL Server Express : lightweight server for hosting SQL databases
 - SQL Server Management Studio (SSMS) : DUI for managing and interacting with databases
-
+  
 ---
 ## Liscense
 This project is liscensed under the [MIT Liscense](LICENSE). You are free to use, modify, and share this project with proper attribution.
