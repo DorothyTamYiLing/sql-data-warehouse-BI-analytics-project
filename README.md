@@ -21,11 +21,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ## Component 2: BI Analytics & Reporting (Data Analytics)
 
 ### Objective
-Develop SQL-based analytics to deliver detailed insights into customer behaviour, product performance and sales trends. These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+Develop and visualise SQL-based analytics to deliver detailed insights into customer behaviour, product performance and sales trends. These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-Analytics include:
-Exploratory Data Analysis (EDA): database exploration, dimension exploration, date exploration, measures exploration, magnitude and ranking exploration
-Advance analytics: Change-over-time, cumulative analysis, performance analysis, part-to-whole analysis, data segmentation, report generation
+#### Develop analytics:
+Exploratory Data Analysis (EDA): database exploration, dimension exploration, date exploration, measures exploration, magnitude and ranking exploration  
+Advance analytics: Change-over-time, cumulative analysis, performance analysis, part-to-whole analysis, data segmentation, report generation  
 
 #### Customer Report
 Purpose:  
@@ -62,6 +62,8 @@ Highlights:
        - recency (months since last sale)  
        - average order revenue (AOR)  (for each order, sale_amount/quantity)  
        - average monthly revenue  
+
+#### Analytics visualisation:
 
 ## Requirements
 - SQL Server Express : lightweight server for hosting SQL databases
