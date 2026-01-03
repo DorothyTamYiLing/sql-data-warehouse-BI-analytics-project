@@ -17,9 +17,10 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### Data Integration 
 Below illustrates how the six cleaned tables are connected:
-<img width="4682" height="2274" alt="data_integration_cropped" src="https://github.com/user-attachments/assets/742c9132-c359-477b-a593-a74384406b80" />
+<img width="1725" height="1034" alt="data_integration_1" src="https://github.com/user-attachments/assets/5eea69ba-0753-4ecc-ba0c-0f241d720c5a" />
 
-Below illustrates how the six cleaned tables are integrated to create the final two customer and product dimensions and the final fact sales table.
+
+Data flow diagram
 <img width="1415" height="734" alt="data_flow_1 drawio" src="https://github.com/user-attachments/assets/904f35ca-2b85-49a6-b6d0-5b3c75695fa2" />
 
 
