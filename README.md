@@ -101,6 +101,10 @@ Highlights:
 
 #### Analytics visualisation
 
+Using filtering function in PowerBI, below visualisations are based on data ranges from 2011 to 2013 (i.e. years with complete 12 months records).
+<img width="1392" height="699" alt="Screenshot 2026-01-03 204054" src="https://github.com/user-attachments/assets/5c3d11e9-cedf-4b52-a7bc-a4765e639b09" />
+
+
 ## Requirements
 - SQL Server Express : lightweight server for hosting SQL databases
 - SQL Server Management Studio (SSMS) : DUI for managing and interacting with databases
