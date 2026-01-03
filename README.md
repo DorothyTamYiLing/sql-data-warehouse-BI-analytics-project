@@ -62,6 +62,7 @@ Data segmentation: to group data into meaningful categories for targeted insight
 Report generation:
 
 _1. Customer Report_
+
 Purpose:  
     - This report consolidates key customer metrics and behaviors  
 
@@ -80,6 +81,7 @@ Highlights:
 		- average monthly spend  
 
 _2. Product Report_
+
 Purpose:  
     - This report consolidates key product metrics and behaviors.  
 
