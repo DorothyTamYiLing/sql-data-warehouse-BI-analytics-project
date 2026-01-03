@@ -32,7 +32,7 @@ PK=primery key; FK=foreign key
 ### Objective
 Develop and visualise SQL-based analytics to deliver detailed insights into customer behaviour, product performance and sales trends. These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-__Exploratory Data Analysis (EDA):__
+__Exploratory Data Analyses (EDA):__
 
 Database exploration: explores the structure of the database, including the list of tables and their schemas and columns, and metadata for specific tables 
 
@@ -51,9 +51,17 @@ __Advance analytics:__
 
 Change-over-time: to track trends, growth, and changes in key metrics over time
 
-cumulative analysis, performance analysis, part-to-whole analysis, data segmentation, report generation  
+Cumulative analysis: to calculate running totals or moving averages for key metrics
 
-_Customer Report_
+Performance analysis (Year-Over-Year, Month-Over-Month): to measure the performance of products, customers, or regions over time
+
+Part-to-whole analysis: to compare performance or metrics across dimensions or time periods, useful for A/B testing or regional comparisons
+
+Data segmentation: to group data into meaningful categories for targeted insights
+
+Report generation:
+
+_1. Customer Report_
 Purpose:  
     - This report consolidates key customer metrics and behaviors  
 
@@ -71,7 +79,7 @@ Highlights:
 		- average order value  
 		- average monthly spend  
 
-_Product Report_
+_2. Product Report_
 Purpose:  
     - This report consolidates key product metrics and behaviors.  
 
