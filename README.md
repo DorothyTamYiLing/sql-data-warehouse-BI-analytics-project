@@ -33,7 +33,11 @@ PK=primery key; FK=foreign key
 Develop and visualise SQL-based analytics to deliver detailed insights into customer behaviour, product performance and sales trends. These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 #### Develop analytics
-Exploratory Data Analysis (EDA): database exploration, dimension exploration, date exploration,  measures exploration: calculate aggregated metrics (e.g., totals, averages) for quick insights  , magnitude and ranking exploration  
+Exploratory Data Analysis (EDA): database exploration, dimension exploration, date exploration, 
+
+measures exploration: calculate aggregated metrics (e.g., totals, averages) for quick insights  
+
+magnitude and ranking exploration  
 Advance analytics: Change-over-time, cumulative analysis, performance analysis, part-to-whole analysis, data segmentation, report generation  
 
 _Customer Report_
