@@ -101,8 +101,9 @@ Highlights:
 #### Analytics visualisation
 
 Using filtering function in PowerBI, below visualisations are based on data ranges from 2011 to 2013 (i.e. years with complete 12 months records).
-<img width="1392" height="699" alt="Screenshot 2026-01-03 204054" src="https://github.com/user-attachments/assets/5c3d11e9-cedf-4b52-a7bc-a4765e639b09" />
-Figure 5: Change of sum of quantity sold, count of distinct customer and sum of sales amount (secondary y-axis) over time, sliced by product category. These metrics had increased dramatically from the beginning of 2013 onwards. Using product category slicing, sales categories related to Accessories and Clothing only became significant from the beginning of 2013 onwards.
+
+<img width="1408" height="704" alt="Screenshot 2026-01-03 205652" src="https://github.com/user-attachments/assets/6ab6aa7c-ee75-441c-8669-bf3d624f2f6b" />
+Figure 5 (screenshot): Change of sum of quantity sold, count of distinct customer and sum of sales amount (secondary y-axis) over time, sliced by product category. These metrics had increased dramatically from the beginning of 2013 onwards. Using product category slicing, sales categories related to Accessories and Clothing only became significant from the beginning of 2013 onwards.
 
 ## Requirements
 - SQL Server Express : lightweight server for hosting SQL databases
