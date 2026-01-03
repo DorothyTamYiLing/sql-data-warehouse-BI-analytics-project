@@ -14,18 +14,17 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### Data Architecture
 <img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/830ed2e5-407a-49a7-a47d-5848623275e5" />
+Figure 1: Illustration of how data is processed start-to-end
 
 ### Data Integration (gold layer)
-Below illustrates how the six cleaned tables are connected based on shared columns, as well as how they are integrated in the gold layer to create the final two customer and product dimensions and final sale fact table :
 <img width="1725" height="1034" alt="data_integration_1" src="https://github.com/user-attachments/assets/5eea69ba-0753-4ecc-ba0c-0f241d720c5a" />
+Figure 2: Illustration of how the six cleaned tables are connected based on shared columns, as well as how they are integrated in the gold layer to create the final two customer and product dimensions and final sale fact table
 
-
-Below is data flow diagram (showing how data in the original sources end up in the final dimensions and table)
 <img width="1095" height="521" alt="data_flow_1" src="https://github.com/user-attachments/assets/48569189-16db-415a-9261-239c8c757fb7" />
+Figure 3: Data flow diagram (showing how data in the original sources end up in the final dimensions and table)
 
-Below illustrates how the final two customer and product dimensions and final sale fact table are connected:
 <img width="6033" height="2249" alt="data_model" src="https://github.com/user-attachments/assets/10d3f627-57ea-48e6-8560-4ab7213be548" />
-PK=primery key; FK=foreign key
+Figure 4: Illustration of how the final two customer and product dimensions and final sale fact table are connected (PK=primery key; FK=foreign key)
 
 ## Component 2: BI Analytics & Reporting (Data Analytics)
 
@@ -103,7 +102,7 @@ Highlights:
 
 Using filtering function in PowerBI, below visualisations are based on data ranges from 2011 to 2013 (i.e. years with complete 12 months records).
 <img width="1392" height="699" alt="Screenshot 2026-01-03 204054" src="https://github.com/user-attachments/assets/5c3d11e9-cedf-4b52-a7bc-a4765e639b09" />
-
+Figure 5: Change of sum of quantity sold, count of distinct customer and sum of sales amount (secondary y-axis) over time, sliced by product category. These metrics had increased dramatically from the beginning of 2013 onwards. Using product category slicing, sales categories related to Accessories and Clothing only became significant from the beginning of 2013 onwards.
 
 ## Requirements
 - SQL Server Express : lightweight server for hosting SQL databases
