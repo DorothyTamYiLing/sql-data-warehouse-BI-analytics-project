@@ -16,12 +16,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 <img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/830ed2e5-407a-49a7-a47d-5848623275e5" />
 
 ### Data Integration (gold layer)
-Below illustrates how the six cleaned tables are connected:
+Below illustrates how the six cleaned tables are connected based on shared columns, as well as how they are integrated in the gold layer to create the final two customer and product dimensions and final sale fact table :
 <img width="1725" height="1034" alt="data_integration_1" src="https://github.com/user-attachments/assets/5eea69ba-0753-4ecc-ba0c-0f241d720c5a" />
 
 
-Data flow diagram
-
+Data flow diagram (showing how the original tables end up in the final dimensions and table)
 <img width="1095" height="521" alt="data_flow_1" src="https://github.com/user-attachments/assets/48569189-16db-415a-9261-239c8c757fb7" />
 
 Below illustrates how the final two customer and product dimensions and final sale fact table are connected:
