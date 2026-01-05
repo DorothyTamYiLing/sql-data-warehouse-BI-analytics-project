@@ -109,7 +109,14 @@ Figure 5 (screenshot): Change of sum of quantity sold, count of distinct custome
 Figure 6 (screenshot): Count and percentage of orders by product category. Based on the information from the Date slicer, the orders of Accessories and Clothing only started at the end of 2012. Since then, the orders of Accessories product category increased significantly until its cumulative order number surpassed that of Bikes in April 2013. At the same time, Accessories has also become the most popular product category in the year of 2013.
 
 <img width="999" height="606" alt="Screenshot 2026-01-05 134559" src="https://github.com/user-attachments/assets/91dd5758-9515-499d-ba59-286ed14f4f72" />
-Figure 7 (screenshot): Count of customer by age group. The proportions of customers of different age groups remains relatively constant across different customer segmentation slicers, suggesting the lack of association between age group and customer segmentation.
+Figure 7 (screenshot): Count of customer by age group. Based on the slicer, the proportions of customers of different age groups remains relatively constant across different customer segmentation slicers, suggesting the lack of association between age group and customer segmentation.
+
+<img width="1045" height="624" alt="Screenshot 2026-01-05 152802" src="https://github.com/user-attachments/assets/4afefe82-472a-4734-bc56-aa865f7e096b" />
+Figure 8 (screenshot): Monthly moving average of price. The downward trend suggests the sales is shifting towards lower-priced products over the time period considered.
+
+<img width="3299" height="1585" alt="Screenshot 2026-01-03 122628" src="https://github.com/user-attachments/assets/d26cacd9-b222-44a7-bd38-b24072d976a1" />
+Figure 9 (screenshot): Boxplot of onthly moving average of price. Same as Figure 8
+
 
 ## Requirements
 - SQL Server Express : lightweight server for hosting SQL databases
