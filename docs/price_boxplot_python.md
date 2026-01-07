@@ -12,6 +12,7 @@ pip install pandas
 
 3. In table gold fact_sales_productmerge, create a new column 'MonthYear_Label' based on existing column 'order_date', but in different date format (e.g. Febrary 2011)
 Report View > Modelling > New column > enter DAX code in the box on top
+
 DAX code:
 ```
 MonthYear_Label = 
@@ -21,6 +22,7 @@ FORMAT(gold fact_sales[order_date], "MMMM-yy")
 
 5. Create a new column 'MonthYear_Sort' for sorting the column 'MonthYear_Label'
 Report View > Modelling > New column > enter DAX code in the box on top
+
 DAX code:
 ```
 MonthYear_Sort = 
