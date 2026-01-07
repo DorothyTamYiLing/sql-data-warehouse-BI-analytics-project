@@ -79,7 +79,7 @@ Highlights:
 		- average order value  
 		- average monthly spend  
 
-_2. Product Report_[See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/13_report_products.sql)
+_2. Product Report [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/13_report_products.sql)
 
 Purpose:  
     - This report consolidates key product metrics and behaviors.  
@@ -122,6 +122,8 @@ This boxplot was produced using python script in PowerBI Desktop. See [here](htt
 ## Requirements
 - SQL Server Express : lightweight server for hosting SQL databases
 - SQL Server Management Studio (SSMS) : DUI for managing and interacting with databases
+- PowerBI Desktop, Version: 2.147.1088.0 64-bit (September 2025)
+- Python 3.13.9
   
 ---
 ## Liscense
