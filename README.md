@@ -48,19 +48,19 @@ Ranking exploration: ranks items (e.g., products, customers) based on performanc
 
 __Advance analytics:__
 
-Change-over-time: to track trends, growth, and changes in key metrics over time
+Change-over-time: to track trends, growth, and changes in key metrics over time. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/07_change_over_time_analysis.sql)
 
-Cumulative analysis: to calculate running totals or moving averages for key metrics
+Cumulative analysis: to calculate running totals or moving averages for key metrics. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/08_cumulative_analysis.sql)
 
-Performance analysis (Year-Over-Year, Month-Over-Month): to measure the performance of products, customers, or regions over time
+Performance analysis (Year-Over-Year, Month-Over-Month): to measure the performance of products, customers, or regions over time. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/09_performance_analysis.sql)
 
-Part-to-whole analysis: to compare performance or metrics across dimensions or time periods, useful for A/B testing or regional comparisons
+Part-to-whole analysis: to compare performance or metrics across dimensions or time periods, useful for A/B testing or regional comparisons. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/11_part_to_whole_analysis.sql)
 
-Data segmentation: to group data into meaningful categories for targeted insights
+Data segmentation: to group data into meaningful categories for targeted insights. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/10_data_segmentation.sql)
 
 Report generation:
 
-_1. Customer Report_
+_1. Customer Report_ [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/12_report_customers.sql)
 
 Purpose:  
     - This report consolidates key customer metrics and behaviors  
@@ -79,7 +79,7 @@ Highlights:
 		- average order value  
 		- average monthly spend  
 
-_2. Product Report_
+_2. Product Report_[See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/13_report_products.sql)
 
 Purpose:  
     - This report consolidates key product metrics and behaviors.  
