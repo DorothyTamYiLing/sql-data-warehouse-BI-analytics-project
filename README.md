@@ -62,7 +62,7 @@ __Advance analytics:__
 
 - Report generation:
 
-_1. Customer Report_ [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/12_report_customers.sql) (Table name: gold.Customers_Report)
+_1. Customer Report_ [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/12_report_customers.sql) (Table name: gold.report_customers)
 
 Purpose:  
     - This report consolidates key customer metrics and behaviors  
@@ -81,7 +81,7 @@ Highlights:
 		- average order value  
 		- average monthly spend  
 
-_2. Product Report [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/13_report_products.sql) (Table name: gold.Products_Report)
+_2. Product Report [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/13_report_products.sql) (Table name: gold.report_products)
 
 Purpose:  
     - This report consolidates key product metrics and behaviors.  
