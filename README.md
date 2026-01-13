@@ -128,14 +128,14 @@ Figure 7 (screenshot): Boxplot of monthly moving average of price (Inference the
 
 **This boxplot was produced using python script seaborn library in PowerBI Desktop. See [here](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/docs/price_boxplot_python.md) for instructions.**
 
-**Problem statement: What are the proportions of customers that belong to different age groups, and belong to different customer segmentation categories? Is there any correlation between customer age group and segmentation?**
+**Problem statement: What are the proportions of customers that belong to different age groups? Is there any correlation between customer age group and segmentation?**
 
 <img width="999" height="606" alt="Screenshot 2026-01-05 134559" src="https://github.com/user-attachments/assets/91dd5758-9515-499d-ba59-286ed14f4f72" />
 Figure 8 (screenshot): Count of customer by age group. Data from gold.Customers_Report. 
 
 **Inference: Based on the slicer, the proportions of customers of different age groups remains relatively constant across different customer segmentation slicers, suggesting the lack of association between age group and customer segmentation.** 
 
-**Problem statement: Which customers has the highest average monthly spend, average order value and total sales in each custome segmentation?**
+**Problem statement: What are the proportions of customer count in each customer segmentation? Which customers has the highest average monthly spend, average order value and total sales in each custome segmentation?**
 
 <img width="1522" height="863" alt="Screenshot 2026-01-12 190746" src="https://github.com/user-attachments/assets/5117f948-5262-4300-9734-3114fb66093b" />
 Figure 9 (screenshot): Count of customer by customer segmentation with tooltips showing the cusomter names with top average monthly spend, top average order value and top total sales. Data from gold.Customers_Report. 
