@@ -50,7 +50,7 @@ __Exploratory Data Analyses (EDA):__
 
 - Magnitude exploration: Aggregation. Group results by specific dimensions and for understanding data distribution across categories. *SQL Functions Used: SUM(), COUNT(), AVG(). Clauses: GROUP BY, ORDER BY* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/05_magnitude_analysis.sql)
 
-- Ranking exploration: ranks items (e.g., products, customers) based on performance or other metrics and to identify top performers or laggards. SQL Functions Used: Window Ranking Functions: RANK(), DENSE_RANK(), ROW_NUMBER(), TOP. Clauses: GROUP BY, ORDER BY. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/06_ranking_analysis.sql)
+- Ranking exploration: ranks items (e.g., products, customers) based on performance or other metrics and to identify top performers or laggards. *SQL Functions Used: Window Ranking Functions: RANK(), DENSE_RANK(), ROW_NUMBER(), TOP. Clauses: GROUP BY, ORDER BY.* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/06_ranking_analysis.sql)
 
 
 __Advance analytics:__
