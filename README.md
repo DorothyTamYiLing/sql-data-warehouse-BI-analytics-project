@@ -55,6 +55,7 @@ Example question: Find the total number of customers that has placed an order.
 Example question:  What is the total revenue generated for each category?
 
 - Ranking exploration: ranks items (e.g., products, customers) based on performance or other metrics and to identify top performers or laggards. *SQL Functions Used: Window Ranking Functions: RANK(), DENSE_RANK(), ROW_NUMBER(), TOP. Clauses: GROUP BY, ORDER BY. Rank()+GROUP BY* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/06_ranking_analysis.sql)
+
 Example question: Find the top 10 customers who have generated the highest revenue.
 
 __Advance analytics:__
