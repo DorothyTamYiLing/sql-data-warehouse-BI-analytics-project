@@ -42,15 +42,15 @@ __Exploratory Data Analyses (EDA):__
 
 - Database exploration: explores the structure of the database, including the list of tables and their schemas and columns, and metadata for contents inspecific tables. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/01_database_exploration.sql)
 
-- Dimension exploration: explores the structure of dimension tables. SQL Functions Used: DISTINCT, ORDER BY. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/02_dimensions_exploration.sql)
+- Dimension exploration: explores the structure of dimension tables. *SQL Functions Used: DISTINCT, ORDER BY* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/02_dimensions_exploration.sql)
 
-- Date exploration: determines the temporal boundaries of key data points and to understand the range of historical data. SQL Functions Used: MIN(), MAX(), DATEDIFF(). [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/03_date_range_exploration.sql)
+- Date exploration: determines the temporal boundaries of key data points and to understand the range of historical data. *SQL Functions Used: MIN(), MAX(), DATEDIFF()* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/03_date_range_exploration.sql)
 
-- Measures exploration: calculates aggregated metrics (e.g., totals, averages) for quick insights. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/04_measures_exploration.sql) 
+- Measures exploration: calculates metrics (e.g., totals, averages) for quick insights. *SQL Functions Used: COUNT(), SUM(), AVG()* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/04_measures_exploration.sql) 
 
-- Magnitude exploration: quantifies data and group results by specific dimensions and for understanding data distribution across categories. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/05_magnitude_analysis.sql)
+- Magnitude exploration: Aggregation. Group results by specific dimensions and for understanding data distribution across categories. *SQL Functions Used: SUM(), COUNT(), AVG(). Clauses: GROUP BY, ORDER BY* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/05_magnitude_analysis.sql)
 
-- Ranking exploration: ranks items (e.g., products, customers) based on performance or other metrics and to identify top performers or laggards. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/06_ranking_analysis.sql)
+- Ranking exploration: ranks items (e.g., products, customers) based on performance or other metrics and to identify top performers or laggards. SQL Functions Used: Window Ranking Functions: RANK(), DENSE_RANK(), ROW_NUMBER(), TOP. Clauses: GROUP BY, ORDER BY. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/06_ranking_analysis.sql)
 
 
 __Advance analytics:__
