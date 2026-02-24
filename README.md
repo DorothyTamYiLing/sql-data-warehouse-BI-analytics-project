@@ -42,7 +42,7 @@ __Exploratory Data Analyses (EDA):__
 
 - Database exploration: explores the structure of the database, including the list of tables and their schemas and columns, and metadata for specific tables. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/01_database_exploration.sql)
 
-- Dimension exploration: explores the structure of dimension tables. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/02_dimensions_exploration.sql)
+- Dimension exploration: explores the structure of dimension tables. SQL Functions Used: DISTINCT, ORDER BY. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/02_dimensions_exploration.sql)
 
 - Date exploration: determines the temporal boundaries of key data points and to understand the range of historical data. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/03_date_range_exploration.sql)
 
