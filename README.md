@@ -64,7 +64,7 @@ Example question: Find the top 10 customers who have generated the highest reven
 
 __Advance analytics:__
 
-- Change-over-time: to track trends, growth, and changes in key metrics over time. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/07_change_over_time_analysis.sql)
+- Change-over-time: to track trends, growth, and changes in key metrics(e.g. total sales, customer count, total quantity sold) over time. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/07_change_over_time_analysis.sql)
 
 - Cumulative analysis: to calculate running totals or moving averages for key metrics. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/08_cumulative_analysis.sql)
 
