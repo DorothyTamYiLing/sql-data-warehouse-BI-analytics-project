@@ -58,17 +58,17 @@ Example question: Find the total number of customers that has placed an order.
 
 Example question:  What is the total revenue generated for each category?
 
-- Ranking exploration: ranks items (e.g., products, customers) based on performance or other metrics and to identify top performers or laggards. *SQL Functions Used: Window Ranking Functions: RANK(), DENSE_RANK(), ROW_NUMBER(), TOP. Clauses: GROUP BY, ORDER BY. Rank()+GROUP BY* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/06_ranking_analysis.sql)
+- Ranking exploration: ranks items (e.g., products, customers) based on performance or other metrics and to identify top performers or laggards. *Window Ranking Functions: RANK(), DENSE_RANK(), ROW_NUMBER(), TOP. Clauses: GROUP BY, ORDER BY. Rank()+GROUP BY* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/06_ranking_analysis.sql)
 
 Example question: Find the top 10 customers who have generated the highest revenue.
 
 __Advance analytics:__
 
-- Change-over-time: to track trends, growth, and changes in key metrics(e.g. total sales, customer count, total quantity sold) over time. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/07_change_over_time_analysis.sql)
+- Change-over-time: to track trends, growth, and changes in key metrics(e.g. total sales, customer count, total quantity sold) over time. *Date Functions: DATEPART(), DATETRUNC(), FORMAT(); Aggregate Functions: SUM(), COUNT(), AVG()* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/07_change_over_time_analysis.sql)
 
 - Cumulative analysis: to calculate running totals or moving averages for key metrics. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/08_cumulative_analysis.sql)
 
-- Performance analysis (Year-Over-Year, Month-Over-Month): to measure the performance of products, customers, or regions over time. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/09_performance_analysis.sql)
+- Performance analysis (Year-Over-Year, Month-Over-Month): to measure the performance of products, customers, or regions over time. Compare metrics with those in previous year and with the average across years. *SQL Functions Used: LAG(), AVG()+OVER(), CASE WHEN* [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/09_performance_analysis.sql)
 
 - Part-to-whole analysis: to compare performance or metrics across dimensions or time periods, useful for A/B testing or regional comparisons. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/11_part_to_whole_analysis.sql)
 
