@@ -72,7 +72,9 @@ __Advance analytics:__
 
 - Part-to-whole analysis: to compare performance or metrics across dimensions or time periods, useful for A/B testing or regional comparisons. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/11_part_to_whole_analysis.sql)
 
-- Data segmentation: to group data into meaningful categories for targeted insights. [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/10_data_segmentation.sql)
+Example question: Which categories contribute the most to overall sales?
+
+- Data segmentation: to group data into meaningful categories for targeted insights (For customer segmentation, product categorization, or regional analysis.) [See SQL script](https://github.com/DorothyTamYiLing/SQL-data-warehouse-BI-analytics-project/blob/main/scripts/BI_analytic_scripts/10_data_segmentation.sql)
 
 - Report generation:
 
